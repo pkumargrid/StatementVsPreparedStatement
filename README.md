@@ -26,7 +26,7 @@
 ## Practical Example of
 ## Sql injection
 
-## Prerequisites
+### Prerequisites
 
 Before running the Java program, ensure you have the following:
 
