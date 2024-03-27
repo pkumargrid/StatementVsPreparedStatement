@@ -26,6 +26,21 @@
 ## Practical Example of
 ## Sql injection
 
+## Prerequisites
+
+Before running the Java program, ensure you have the following:
+
+- Java Development Kit (JDK) installed
+- PostgreSQL installed or running in a Docker container
+
+## Running PostgreSQL in Docker
+
+To run a Docker container for PostgreSQL, use the following command:
+
+```bash
+docker run --name my-postgres-container -e POSTGRES_PASSWORD=mysecretpassword -d postgres
+
+
 ```
 # Java JDBC Example with Prepared Statement
 
